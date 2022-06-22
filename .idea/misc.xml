@@ -1,5 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0">
+      <entry_point TYPE="field" FQNAME="entity08.Student name" />
+    </entry_points>
+    <pattern value="entity09.Account" />
+    <pattern value="main.DoWhile" />
+    <pattern value="main.EstruturaCondicional" />
+    <pattern value="main04.Exercicio01" />
+    <pattern value="main05.Exercicio01" />
+    <pattern value="main06.Exercicio01" />
+    <pattern value="main04.Exercicio02" />
+    <pattern value="main05.Exercicio02" />
+    <pattern value="main06.Exercicio02" />
+    <pattern value="main04.Exercicio03" />
+    <pattern value="main05.Exercicio03" />
+    <pattern value="main06.Exercicio03" />
+    <pattern value="main04.Exercicio04" />
+    <pattern value="main05.Exercicio04" />
+    <pattern value="main06.Exercicio04" />
+    <pattern value="main04.Exercicio05" />
+    <pattern value="main05.Exercicio05" />
+    <pattern value="main06.Exercicio05" />
+    <pattern value="main04.Exercicio06" />
+    <pattern value="main05.Exercicio06" />
+    <pattern value="main06.Exercicio06" />
+    <pattern value="main05.Exercicio07" />
+    <pattern value="main06.Exercicio07" />
+    <pattern value="main05.Exercicio08" />
+    <pattern value="main06.Exercicio08" />
+    <pattern value="main06.Exercicio09" />
+    <pattern value="main06.Exercicio10" />
+    <pattern value="main.For" />
+    <pattern value="entity09.Account" method="getBalance" />
+    <pattern value="entity09.Account" method="getHolder" />
+    <pattern value="entity09.Account" method="getNumber" />
+    <pattern value="entities.Product" method="getQuantity" />
+    <pattern value="main.DoWhile" method="main" />
+    <pattern value="main.EstruturaCondicional" method="main" />
+    <pattern value="main06.Exercicio01" method="main" />
+    <pattern value="main05.Exercicio01" method="main" />
+    <pattern value="main04.Exercicio01" method="main" />
+    <pattern value="main06.Exercicio02" method="main" />
+    <pattern value="main05.Exercicio02" method="main" />
+    <pattern value="main04.Exercicio02" method="main" />
+    <pattern value="main06.Exercicio03" method="main" />
+    <pattern value="main05.Exercicio03" method="main" />
+    <pattern value="main04.Exercicio03" method="main" />
+    <pattern value="main06.Exercicio04" method="main" />
+    <pattern value="main05.Exercicio04" method="main" />
+    <pattern value="main04.Exercicio04" method="main" />
+    <pattern value="main06.Exercicio05" method="main" />
+    <pattern value="main05.Exercicio05" method="main" />
+    <pattern value="main04.Exercicio05" method="main" />
+    <pattern value="main06.Exercicio06" method="main" />
+    <pattern value="main05.Exercicio06" method="main" />
+    <pattern value="main04.Exercicio06" method="main" />
+    <pattern value="main06.Exercicio07" method="main" />
+    <pattern value="main05.Exercicio07" method="main" />
+    <pattern value="main06.Exercicio08" method="main" />
+    <pattern value="main05.Exercicio08" method="main" />
+    <pattern value="main06.Exercicio09" method="main" />
+    <pattern value="main06.Exercicio10" method="main" />
+    <pattern value="main.For" method="main" />
+    <pattern value="main.ProcessamentoDeDados" method="main" />
+    <pattern value="application.Program" method="main" />
+    <pattern value="program09.Program01" method="main" />
+    <pattern value="program08.Program01" method="main" />
+    <pattern value="program08.Program02" method="main" />
+    <pattern value="program08.Program03" method="main" />
+    <pattern value="application.Program2" method="main" />
+    <pattern value="program09.ProgramProduct" method="main" />
+    <pattern value="program09.ProgramTriangle" method="main" />
+    <pattern value="main.While" method="main" />
+    <pattern value="main.ProcessamentoDeDados" />
+    <pattern value="entities.Product" />
+    <pattern value="entities.Product" method="Product" />
+    <pattern value="application.Program" />
+    <pattern value="program08.Program01" />
+    <pattern value="program09.Program01" />
+    <pattern value="program08.Program02" />
+    <pattern value="program08.Program03" />
+    <pattern value="application.Program2" />
+    <pattern value="program09.ProgramProduct" />
+    <pattern value="program09.ProgramTriangle" />
+    <pattern value="entity09.Account" method="setHolder" />
+    <pattern value="entity08.Student" />
+    <pattern value="main.While" />
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
