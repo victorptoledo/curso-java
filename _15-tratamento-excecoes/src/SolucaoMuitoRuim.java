@@ -1,11 +1,11 @@
-import model.entities.Reservation;
+import model.entities.ReservationSolucaoRuim;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
 
-public class Program3 {
+public class SolucaoMuitoRuim {
 
     public static void main(String[] args) throws ParseException {
 
@@ -24,7 +24,7 @@ public class Program3 {
         if (!checkOut.after(checkIn)) {
             System.out.println("Error in reservation: Check-out date must be after check-in date");
         } else {
-            Reservation reservation = new Reservation(number, checkIn, checkOut);
+            ReservationSolucaoRuim reservation = new ReservationSolucaoRuim(number, checkIn, checkOut);
             System.out.println("Reservation: " + reservation);
 
             System.out.println();
